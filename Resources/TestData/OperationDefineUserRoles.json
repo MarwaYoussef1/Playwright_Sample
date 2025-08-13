@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Program Owner",
+    "roleConstant": "ENTITY_PROGRAM_OWNER_ROLE",
+    "expectedRolesKey":  [ "مدير برنامج فرعي", "اختصاصي الشكاوى",
+                           "مدير الشكاوى", "مدير قواعد عمل إعانات",
+                           "اختصاصي قواعد عمل إعانات", "اختصاصي إدارة برامج",
+                           "مدير تشغيل إعانة", "اختصاصي تشغيل إعانة",
+                           "مدير برنامج", "اختصاصي الصرف", "مدير عملية الصرف" ]
+  },
+  {
+    "label": "Simulation Manager",
+    "roleConstant": "ENTITY_SIMULATION_MANAGER_ROLE",
+    "expectedRolesKey":  [ "مدير قواعد عمل نماذج مُحاكاة", "اختصاصي قواعد عمل نماذج مُحاكاة" ]
+  }
+]

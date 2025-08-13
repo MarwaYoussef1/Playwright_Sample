@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "baseUrl": "./",
+    "paths": {
+      "*": ["src/*"]
+    }
+  },
+  "include": [
+    "src/**/*",
+    "tests/**/*"    // Include the tests folder
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
